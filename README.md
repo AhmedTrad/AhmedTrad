@@ -1,5 +1,5 @@
 <h1 align="center">hello there 👋, I'm AhmedT</h1>
-<h3 align="center">Software test Engineer | Front-End developer</h3>
+<h3 align="center">Software test Engineer </h3>
 
 ------
 
