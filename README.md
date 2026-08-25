@@ -4,7 +4,6 @@
 ------
 
 <h2 align="center">I’m a QA Automation Engineer with a strong passion for building reliable and user-friendly applications. <br/>
-  As a self-taught web developer, I combine development and testing perspectives to deliver robust and scalable solutions.</h3>
  
 <h3>I focus on delivering quality through both development and testing:</h3>
 <ul>
